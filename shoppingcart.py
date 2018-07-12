@@ -1,3 +1,4 @@
+//class begins here
 class ShoppingCart(object):
   """Creates shopping cart objects
   for users of our fine website."""
